@@ -11,14 +11,6 @@ Aplicación desarrollada en Python para reconstruir señales periódicas mediant
 - Matplotlib
 - Tkinter (incluido normalmente con Python en Windows)
 
-## Instalación
-
-Abrir una terminal y ejecutar:
-
-```cmd
-python -m pip install matplotlib
-```
-
 ## Ejecución
 
 1. Descargar el archivo `codigo_proyecto_fourier-3.py`.
